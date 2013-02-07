@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1359683823 source:c:\users\lara mae\downloads\programming\insertion\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
+1360195256 source:c:\users\lara mae\downloads\programming\insertionsort\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1360203202 source:c:\users\lara mae\downloads\programming\insertionsortwithclass\isort.cpp
+	"isort.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1360203202 c:\users\lara mae\downloads\programming\insertionsortwithclass\isort.h
+	<string>
+	<sstream>
+
+1360203215 source:c:\users\lara mae\downloads\programming\insertionsortwithclass\main.cpp
+	"isort.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1360238550 source:c:\users\lara mae\downloads\programming\insertionsortpasswordswithclass\isort.cpp
+	"isort.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<cstring>
+
+1360238444 c:\users\lara mae\downloads\programming\insertionsortpasswordswithclass\isort.h
+	<string>
+	<sstream>
+
+1360238550 source:c:\users\lara mae\downloads\programming\insertionsortpasswordswithclass\main.cpp
+	"isort.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
